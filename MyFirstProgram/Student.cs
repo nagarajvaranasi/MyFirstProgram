@@ -25,7 +25,7 @@ namespace MyFirstProgram
 
         private string PhoneNumber;
 
-        string CountryCode { get; set; }
+        //string CountryCode { get; }
 
         public void ShowPhoneNumber()
         {
