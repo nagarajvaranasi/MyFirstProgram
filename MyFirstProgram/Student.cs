@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace MyFirstProgram
 {
+    /// <summary>
+    /// student class
+    /// </summary>
     public class Student
     {
+
        public Student(string phnNumber) { 
 
             PhoneNumber = phnNumber;
